@@ -500,4 +500,7 @@ section.viwe3 .bottom > p {
     justify-content: space-between;
     padding: 2rem;
   }
+  main section.viwe7 .bottom p {
+    font-size: 1rem;
+  }
 }/*# sourceMappingURL=studio.css.map */
